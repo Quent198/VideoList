@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api/users";
+const BASE_URL = "https://tpmern-3-gi48.vercel.app/api/users";
 
 export async function signup(values) {
   try {
